@@ -7,7 +7,7 @@ on:
     types: [created]
 
 env:
-  MICROPYTHON_VERSION: feature/usb-cdc # ProjectGus's USBD_Python PR
+  MICROPYTHON_VERSION: cdc # ProjectGus's USBD_Python PR
 
 jobs:
   build:

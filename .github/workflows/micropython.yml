@@ -7,7 +7,7 @@ on:
     types: [created]
 
 env:
-  MICROPYTHON_VERSION: 3ded902161cc0f8ab058aa763d46b58c01e1a965 # ProjectGus's USBD_Python branch
+  MICROPYTHON_VERSION: 3ded902161cc0f8ab058aa763d46b58c01e1a965 # ProjectGus's USBD_Python PR
 
 jobs:
   build:
